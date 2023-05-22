@@ -11,4 +11,4 @@ Expense Manager can track your expenses and even show you last week's per day ex
 
 ## Screenshots
 
-![Alt text](C:\Users\akash\Downloads?raw=true "Optional Title")
+![Home_Screen_Empty](https://github.com/akashsingh2754/BudgetBuddy/assets/117973585/a0aa47bf-d3cf-4fdf-8172-45e65a9e71c9)
