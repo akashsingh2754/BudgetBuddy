@@ -1,15 +1,14 @@
 # Expense Manager App using Flutter
 Expense Manager can track your expenses and even show you last week's per day expenses in a simple chart. Expenses are stored locally in the device using SQLite Database.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Last week transactions summary.
+* Simple and intuitive UI.
+* Beautiful Material Design.
+* Uses SQLite for storing data locally in your device hence great privacy.
+* Works offline.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](C:\Users\akash\Downloads?raw=true "Optional Title")
